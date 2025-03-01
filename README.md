@@ -1,7 +1,9 @@
 # Hi there 👋
 
 I’m a data scientist who loves turning data into actionable insights. 
+
 Passionate about machine learning, data visualization, and solving real-world problems with code. 
+
 Always learning, always experimenting 🚀
 
 
