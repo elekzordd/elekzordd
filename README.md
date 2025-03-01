@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋
+
+I’m a data scientist who loves turning data into actionable insights. 
+Passionate about machine learning, data visualization, and solving real-world problems with code. 
+Always learning, always experimenting 🚀
+
+
 
 <!--
 **elekzordd/elekzordd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
